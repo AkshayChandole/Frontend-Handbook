@@ -1,4 +1,4 @@
-# [Explain difference between: display: none, visibility: hidden, opacity: 0 ?](#explain-difference-between-display-none-visibility-hidden-opacity-0)
+# [Explain difference between: display: none, visibility: hidden, opacity: 0 ?](#explain-difference-between-display-none-visibility-hidden-opacity)
 
 ### Question:
 What is the difference between display: none, visibility: hidden, and opacity: 0 in CSS?
