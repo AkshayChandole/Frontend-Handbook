@@ -35,6 +35,7 @@ console.log(memoizedFibonacci(10)); // Computed
 console.log(memoizedFibonacci(10)); // Cached result
 ```
 
+#### Output:
 ![image](https://github.com/user-attachments/assets/889ab72f-3365-4b9e-bde9-31dfb450dfa9)
 
 
