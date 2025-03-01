@@ -11,7 +11,7 @@ Memoization is an optimization technique used to improve the performance of func
 function memoize(fn) {
     const cache = {}; // Store computed results
     return function (...args) {
-        const key = JSON.stringify(args); // Create a unique key for arguments
+        const key = JSON.stringify(args); // Convert arguments to a unique key
         if (cache[key]) {
             console.log("Fetching from cache:", key);
             return cache[key]; // Return cached result
@@ -31,8 +31,9 @@ function fibonacci(n) {
 
 const memoizedFibonacci = memoize(fibonacci);
 
-console.log(memoizedFibonacci(10)); // Computed
-console.log(memoizedFibonacci(10)); // Cached result
+console.log(memoizedFibonacci(5)); // Computed
+console.log(memoizedFibonacci(5)); // Cached result
+console.log(memoizedFibonacci(6)); // Computed, but reuses memoized values
 ```
 
 #### Output:
