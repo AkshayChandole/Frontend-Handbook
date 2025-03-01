@@ -1,4 +1,5 @@
-# [How can you implement `Promise.any()` in JavaScript?](#how-can-you-implement-promise-any-in-javascript)
+# [How can you implement `Promise.any()` in JavaScript?](#how-can-you-implement-promiseany-in-javascript)
+
 
 ### **Question:**  
 How can you implement `Promise.any()` in JavaScript?  
