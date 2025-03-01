@@ -42,3 +42,5 @@ timeouts.forEach(clearTimeout);
 - Avoids iterating over unnecessary IDs.  
 
 Both methods effectively prevent delayed code execution from `setTimeout()`. 🚀
+
+---
