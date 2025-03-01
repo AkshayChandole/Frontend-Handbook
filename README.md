@@ -7,3 +7,4 @@
 
 ## Javascript Interview Questions
   - [How can you cancel all active setTimeout timers in JavaScript?](https://github.com/AkshayChandole/Frontend-Handbook/blob/main/JavascriptInterviewQuestions/HowCanYouCancelAllActiveSetTimeoutTimersInJavaScript.md#how-can-you-cancel-all-active-settimeout-timers-in-javascript)
+  - [What is a memoization function in JavaScript, and how does it work ?](https://github.com/AkshayChandole/Frontend-Handbook/blob/main/JavascriptInterviewQuestions/WhatIsAMemoizationFunctionInJavaScriptAndHowDoesItWork.md#what-is-a-memoization-function-in-javascript-and-how-does-it-work)
