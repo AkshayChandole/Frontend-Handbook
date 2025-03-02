@@ -11,5 +11,5 @@
 
 * Promises  
   - [How can you implement `Promise.any()` in JavaScript?](https://github.com/AkshayChandole/Frontend-Handbook/blob/main/JavascriptInterviewQuestions/HowCanYouImplementPromiseAnyInJavaScript.md#how-can-you-implement-promiseany-in-javascript)
-  - [How can you validate whether a given string is a valid HTML snippet in JavaScript?]()
+  - [How would you implement a custom Promise from scratch in JavaScript? Additionally, how would you implement the .finally() method for it?]()
   - 
