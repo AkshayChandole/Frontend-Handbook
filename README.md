@@ -11,5 +11,5 @@
 
 * Promises  
   - [How can you implement `Promise.any()` in JavaScript?](https://github.com/AkshayChandole/Frontend-Handbook/blob/main/JavascriptInterviewQuestions/HowCanYouImplementPromiseAnyInJavaScript.md#how-can-you-implement-promiseany-in-javascript)
-  - [How would you implement a custom Promise from scratch in JavaScript? Additionally, how would you implement the .finally() method for it?]()
+  - [How would you implement a custom Promise from scratch in JavaScript? Additionally, how would you implement the .finally() method for it?](https://github.com/AkshayChandole/Frontend-Handbook/blob/main/JavascriptInterviewQuestions/HowWouldYouImplementACustomPromiseFromScratchInJavaScriptAdditionallyHowWouldYouImplementTheFinallyMethodForIt.md#how-would-you-implement-a-custom-promise-from-scratch-in-javascript-additionally-how-would-you-implement-the-finally-method-for-it)
   - 
