@@ -56,7 +56,7 @@ In JavaScript, both normal functions (traditional function expressions) and arro
        ```
 
    - **Arrow Functions:**
-     Arrow functions do not have their own `this`. Instead, they inherit `this` from the surrounding lexical scope (i.e., the context in which the arrow function was defined). This behavior is often referred to as "lexical scoping."
+     Arrow functions do not have their own `this`. Instead, they inherit `this` from the surrounding lexical scope (i.e., the context in which the arrow function was defined). This behavior is often referred to as _**"lexical scoping."**_
 
      ```javascript
      const obj = {
