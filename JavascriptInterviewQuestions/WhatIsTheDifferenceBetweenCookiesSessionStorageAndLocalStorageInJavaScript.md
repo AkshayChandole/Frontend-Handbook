@@ -4,7 +4,7 @@
 
 **What is the difference between Cookies, Session Storage, and LocalStorage in JavaScript? Explain their usage, storage capacity, and lifespan.**
 
-## Detailed Answer:
+## Answer:
 
 In web development, managing data in the client's browser is essential for providing a rich and persistent user experience. Cookies, Session Storage, and LocalStorage are three commonly used browser storage mechanisms for persisting data on the client side. Although they serve similar purposes, they each have distinct characteristics regarding their scope, storage capacity, and behavior.
 
