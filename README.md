@@ -11,7 +11,7 @@
   - [What is the difference between normal functions and arrow functions in JavaScript?](https://github.com/AkshayChandole/Frontend-Handbook/blob/main/JavascriptInterviewQuestions/WhatIsTheDifferenceBetweenNormalFunctionsAndArrowFunctionsInJavaScript.md#what-is-the-difference-between-normal-functions-and-arrow-functions-in-javascript)
   - [What is the difference between Cookies, Session Storage, and LocalStorage in JavaScript?](https://github.com/AkshayChandole/Frontend-Handbook/blob/main/JavascriptInterviewQuestions/WhatIsTheDifferenceBetweenCookiesSessionStorageAndLocalStorageInJavaScript.md#what-is-the-difference-between-cookies-session-storage-and-localstorage-in-javascript)
   - [What is an Immediately Invoked Function Expression (IIFE) in JavaScript, and how does it work?](https://github.com/AkshayChandole/Frontend-Handbook/blob/main/JavascriptInterviewQuestions/WhatIsAnImmediatelyInvokedFunctionExpressionIIFEInJavaScriptAndHowDoesItWork.md#what-is-an-immediately-invoked-function-expression-iife-in-javascript-and-how-does-it-work)
-  - [What is a Generator function in JavaScript?](#what-is-a-generator-function-in-javascript)
+  - [What is a Generator function in JavaScript?](https://github.com/AkshayChandole/Frontend-Handbook/blob/main/JavascriptInterviewQuestions/WhatIsAGeneratorFunctionInJavaScript.md#what-is-a-generator-function-in-javascript)
 
 
 * **Promises**  
