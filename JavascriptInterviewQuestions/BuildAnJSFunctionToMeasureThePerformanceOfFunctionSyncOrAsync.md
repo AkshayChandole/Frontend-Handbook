@@ -72,5 +72,3 @@ measurePerformance(asyncDelay, 1000).then(result => console.log(result));
   * **Async functions (returning a Promise)**
 
 ---
-
-Let me know if you'd like a version that logs more details (like function name or output size).
