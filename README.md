@@ -19,4 +19,4 @@
   - [How would you implement a custom Promise from scratch in JavaScript? Additionally, how would you implement the .finally() method for it?](https://github.com/AkshayChandole/Frontend-Handbook/blob/main/JavascriptInterviewQuestions/HowWouldYouImplementACustomPromiseFromScratchInJavaScriptAdditionallyHowWouldYouImplementTheFinallyMethodForIt.md#how-would-you-implement-a-custom-promise-from-scratch-in-javascript-additionally-how-would-you-implement-the-finally-method-for-it)
  
 * **Performance**
-  - [Build an JS function to measure the performance of function (sync or async)]()
+  - [Build an JS function to measure the performance of function (sync or async)](https://github.com/AkshayChandole/Frontend-Handbook/blob/main/JavascriptInterviewQuestions/BuildAnJSFunctionToMeasureThePerformanceOfFunctionSyncOrAsync.md#build-an-js-function-to-measure-the-performance-of-function-sync-or-async)
